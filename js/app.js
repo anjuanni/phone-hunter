@@ -97,7 +97,7 @@ const phoneDetails = (phone) => {
 }
 
 
-loadPhones('samsung');
+loadPhones('samsung', 10);
 
 
 
